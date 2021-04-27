@@ -120,8 +120,8 @@ github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ
 github.com/hashicorp/golang-lru v0.5.1/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/hfmrow/gen_lib v0.1.0 h1:IjP5AE3qWOjH6CpvYqDmFIPLwvICw34e8gqRa8dMyYc=
 github.com/hfmrow/gen_lib v0.1.0/go.mod h1:Z56WTqHotjen6O6bP2yUpFAnc3xpWM+R8uSfElm0Bto=
-github.com/hfmrow/gotk3_gtksource/source v0.0.0-20210427055209-1339b849241e h1:LP7sj4p2JBbm3xRTtmJP6lC31L2JD/DMt2/jPT7N6fA=
-github.com/hfmrow/gotk3_gtksource/source v0.0.0-20210427055209-1339b849241e/go.mod h1:WfQof7syRMQzcDEIeGPyvz9d4qYl5tUc63fK9gc4XYU=
+github.com/hfmrow/gotk3_gtksource v0.9.10 h1:CNLSPTQlWGXy7LaeNBcrV9TIdcakc5tixnkuIGu/v0M=
+github.com/hfmrow/gotk3_gtksource v0.9.10/go.mod h1:aTslS6II5gspS9B5MB37cm/F4f+mxyuZ5nudun71AD8=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=
 github.com/jstemmer/go-junit-report v0.9.1/go.mod h1:Brl9GWCQeLvo8nXZwPNNblvFj/XSXhF0NWZEnDohbsk=
