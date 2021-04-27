@@ -1,4 +1,4 @@
-# gtk3_import v0.1.0
+# gtk3_import v0.1.1
 
 ### Personal library, [gotk3](https://golang.org/) helpers
 
@@ -29,3 +29,17 @@ $ go install github.com/hfmrow/gtk3_import/...
 - [Gtk Inspector](https://blog.gtk.org/2017/04/05/the-gtk-inspector/), a great helper to show the construction of an underlying gtk3 interface, control and produce CSS code easily and efficiently with instant visual, view / modify object settings and many other features.
 
 *This list is not exhaustive, with some exceptions due to Golang's specifications. These documentations can help understand the implementation of gotk3 with Golang.*
+
+---
+
+# Important Notice:
+
+ This library is constantly updated, it is not necessary to include it manually, it will eventually be downloaded automatically if the software requires it.
+
+It's just there for my own convenience. All my projects that use it are distributed with a **vendor** directory which includes a specific version and which will allow the program to be built without worrying about anything.
+
+If you want to play around with the source code of my software, I recommend that you only use the **vendor** version and not try to update to a newer version (only these), as the current version may no longer be compatible with the software version available in the repository. Since Go modules exist, normally only the compatible version will be used (unless you modify the 'go.mod' file).
+
+*The previous explanations do not include (of course), the use for your personal use (in your own programs), as stated before, you can use any part of it as long as the definition of the MIT license is met as all other types of licenses used by third-party libraries used.*
+
+---
