@@ -19,7 +19,7 @@
 $ go install github.com/hfmrow/gtk3_import/...
 ```
 
-### Gtk3 ressources:
+### Gtk3 resources:
 
 - [GTK3](https://developer.gnome.org/gtk3/stable/)
 - [GDK3](https://developer.gnome.org/gdk3/stable/)
