@@ -40,6 +40,8 @@ It's just there for my own convenience. All my projects that use it are distribu
 
 If you want to play around with the source code of my software, I recommend that you only use the **vendor** version and not try to update to a newer version (only these), as the current version may no longer be compatible with the software version available in the repository. Since Go modules exist, normally only the compatible version will be used (unless you modify the 'go.mod' file).
 
+In this library some functions are deprecated because I started it a few years ago and unfortunately haven't cleaned up all unnecessary functions yet.
+
 *The previous explanations do not include (of course), the use for your personal use (in your own programs, at your own risks). Each majors changes will be tagged as specific version respecting golang semantic versioning usage, as stated before, you can use any part of it as long as the definition of the MIT license is met as well as for all other types of licenses used by third party libraries used. And you are always welcome to offer ideas or fixes.*
 
 ---
