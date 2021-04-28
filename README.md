@@ -34,12 +34,12 @@ $ go install github.com/hfmrow/gtk3_import/...
 
 # Important Notice:
 
- This library is constantly updated, it is not necessary to include it manually, it will eventually be downloaded automatically if the software requires it.
+This library will be constantly updated, it is not necessary to include it manually, it will eventually be downloaded automatically if the software requires it. Actually when I need to add / fixes / changes something in it, will do it. So, this library, will never have a stable version until I dance with angels or deamonds (hopefully for some long and long years still ^^).
 
 It's just there for my own convenience. All my projects that use it are distributed with a **vendor** directory which includes a specific version and which will allow the program to be built without worrying about anything.
 
 If you want to play around with the source code of my software, I recommend that you only use the **vendor** version and not try to update to a newer version (only these), as the current version may no longer be compatible with the software version available in the repository. Since Go modules exist, normally only the compatible version will be used (unless you modify the 'go.mod' file).
 
-*The previous explanations do not include (of course), the use for your personal use (in your own programs), as stated before, you can use any part of it as long as the definition of the MIT license is met as all other types of licenses used by third-party libraries used.*
+*The previous explanations do not include (of course), the use for your personal use (in your own programs, at your own risks). Each majors changes will be tagged as specific version respecting golang semantic versioning usage, as stated before, you can use any part of it as long as the definition of the MIT license is met as well as for all other types of licenses used by third party libraries used. And you are always welcome to offer ideas or fixes.*
 
 ---
