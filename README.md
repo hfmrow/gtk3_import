@@ -34,7 +34,7 @@ $ go install github.com/hfmrow/gtk3_import/...
 
 # Important Notice:
 
-This library will be constantly updated, it is not necessary to include it manually, it will eventually be downloaded automatically if the software requires it. Actually when I need to add / fixes / changes something in it, will do it. So, this library, will never have a stable version until I dance with angels or deamonds (hopefully for some long and long years still ^^).
+This library will be constantly updated, it is not necessary to include it manually, it will eventually be downloaded automatically if the software requires it. Actually when I need to add / correct / modify something, I will. So this library will never have a definitive stable version until I dance with angels or deamonds (hopefully for many long years to come ^^).
 
 It's just there for my own convenience. All my projects that use it are distributed with a **vendor** directory which includes a specific version and which will allow the program to be built without worrying about anything.
 
